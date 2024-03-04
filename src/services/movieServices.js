@@ -15,3 +15,4 @@ export function createImageUrl(filename, size){
 }
 
 export default endpoints;
+
